@@ -5,7 +5,7 @@ public class Floor {
         int[] arr ={2,3,5,9,14,16,18};
         int target = 15;
         int ans = binarySearch(arr,target);
-        System.out.println(ans);
+           System.out.println(ans);
     }
 
     static int binarySearch(int[] arr,int target){

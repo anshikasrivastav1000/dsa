@@ -16,6 +16,7 @@
 //        return ans;
 //
 //    }
+////this fun just returns the index value of target
 //
 //
 //     int search(int[] nums, int target,boolean findStartIndex) {
@@ -28,7 +29,7 @@
 //                end =   mid-1;
 //            }else if(nums[mid] < target)
 //                start= mid+1;
-//        }else{
+//        }else if(){
 //          ans = mid;
 //          if(findStartIndex){
 //              end = mid + 1;
